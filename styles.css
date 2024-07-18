@@ -1,0 +1,65 @@
+.my-div {
+    border: 10px solid gold;
+    margin: 100px;
+    background-color: green;
+}
+.flex-container {
+    display: flex;
+    flex-direction: column-reverse;
+    }
+.box1 {
+    width: 10vw;
+    background-color: gold;
+    border: 10px solid black;
+    margin: 100px;
+    padding: 100px;
+}
+.box2 {
+    width: 10vw;
+    background-color: gold;
+    border: 10px solid black;
+    margin: 100px;
+    padding: 100px;
+}
+.box3 {
+    width: 10vw;
+    background-color: gold;
+    border: 10px solid  black;
+    margin: 100px;
+    padding: 100px;
+}
+.box4 {
+    width: 10vw;
+    background-color: gold;
+    border: 10px solid black;
+    margin: 100px;
+    padding: 100px;
+}
+.box5 {
+    width: 10vw;
+    background-color: goldenrod;
+    border: 10px solid black;
+    margin: 100px;
+    padding: 100px;
+}
+.box6 {
+    width: 10vw;
+    background-color: goldenrod;
+    border: 10px solid black;
+    margin: 100px;
+    padding: 100px;
+}
+.box7 {
+    width: 10vw;
+    background-color: gold;
+    border: 10px solid goldenrod;
+    margin: 100px;
+    padding: 100px;
+}
+.box8 {
+    width: 10vw;
+    background-color: gold;
+    border: 10px solid gold;
+    margin: 100px;
+    padding: 100px;
+}
